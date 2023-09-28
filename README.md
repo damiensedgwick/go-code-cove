@@ -33,3 +33,5 @@ Then when you run the second command to open the report in your browser, you
 should see the following:
 
 ![Cover coverage report](image.png)
+
+(Unsure why my browser is jet black, this could be a bug with the report)
